@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #121212; }
+      .neon-green { fill: #00FF44; }
+      .cyan { fill: #00CED1; }
+      .pink { fill: #FF1493; }
+      .text-title { font-family: 'Uncut Sans', sans-serif; font-weight: bold; fill: #FFFFFF; font-size: 80px; }
+      .text-code { font-family: 'Monaspace Neon', monospace; fill: #00FF44; font-size: 40px; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect class="bg" width="1920" height="1080" x="0" y="0" />
+  
+  <!-- Safe Area Guide Border -->
+  <rect x="50" y="50" width="1820" height="980" fill="none" stroke="#00CED1" stroke-width="2" stroke-dasharray="10,10" opacity="0.3" />
+  
+  <!-- Placeholder Text Layer -->
+  <text x="100" y="200" class="text-code">&gt;_ BASH NA PISTA</text>
+  <text x="100" y="320" class="text-title">TÍTULO DA THUMBNAIL AQUI</text>
+</svg>
