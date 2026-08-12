@@ -55,3 +55,10 @@ Este repositório contém todos os **scripts, dotfiles, templates de Inkscape/GI
 ## ⭐ Apoie o Projeto
 
 Se o conteúdo te ajudou a otimizar seu workflow ou se livrar de assinaturas desnecessárias, considere deixar uma **estrela ⭐** neste repositório e se inscrever no canal!
+
+## Autor
+
+-   **criativotech**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01KWCZW)
+---
