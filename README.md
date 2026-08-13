@@ -24,11 +24,12 @@ Este repositório contém todos os **scripts, dotfiles, templates de Inkscape/GI
 
 ```text
 .
-├── scripts/            # Scripts Shell para automação de mídia e workflow
-│   ├── img-watermark.sh
-│   └── video-optimize.sh
-├── dotfiles/           # Configurações de terminal, WMs e temas
-├── templates/          # Assets vetoriais (.svg) e presets para Inkscape/GIMP
+├── scripts/             # Scripts Shell de automação e workflow
+├── dotfiles/            # Configurações de terminal, prompt e RICE
+├── services-menus/      # Menus interativos de contexto para gerenciadores de arquivos
+│   ├── plasma-dolphin/  # Extensões e ações para o KDE Dolphin
+│   └── gnome-nautilus/  # Extensões e ações para o GNOME Nautilus
+├── templates/           # Assets vetoriais (.svg) e presets de design
 └── README.md
 ```
 
